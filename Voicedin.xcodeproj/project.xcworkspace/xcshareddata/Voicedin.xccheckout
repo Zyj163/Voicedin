@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D50F3B7-8801-4327-8322-7BDBC4CE5595</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Voicedin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>77a6101f-950a-4ffc-abea-8d4541fc3bbe++1406</key>
+		<string>svn://192.168.1.2/My_Online/My_Online_Client/iPhone/Voicedin</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Voicedin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>77a6101f-950a-4ffc-abea-8d4541fc3bbe++1406</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>77a6101f-950a-4ffc-abea-8d4541fc3bbe++1406</key>
+		<string>svn://192.168.1.2/My_Online</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.2/My_Online/My_Online_Client/iPhone/Voicedin/Voicedin.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>77a6101f-950a-4ffc-abea-8d4541fc3bbe++1406</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>77a6101f-950a-4ffc-abea-8d4541fc3bbe++1406</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Voicedin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
